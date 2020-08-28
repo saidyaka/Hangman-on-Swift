@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B00EC6D920237BAB008D4E4B /* ButtonAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00EC6D820237BAB008D4E4B /* ButtonAnimationExtension.swift */; };
 		B04A8EF91FEC2537009616A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04A8EF81FEC2537009616A0 /* AppDelegate.swift */; };
 		B04A8EFB1FEC2537009616A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04A8EFA1FEC2537009616A0 /* ViewController.swift */; };
 		B04A8EFE1FEC2538009616A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B04A8EFC1FEC2538009616A0 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B00EC6D820237BAB008D4E4B /* ButtonAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonAnimationExtension.swift; sourceTree = "<group>"; };
 		B04A8EF51FEC2537009616A0 /* Hangmannation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hangmannation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B04A8EF81FEC2537009616A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B04A8EFA1FEC2537009616A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				B04A8EF81FEC2537009616A0 /* AppDelegate.swift */,
 				B04A8EFA1FEC2537009616A0 /* ViewController.swift */,
+				B00EC6D820237BAB008D4E4B /* ButtonAnimationExtension.swift */,
 				B04A8EFC1FEC2538009616A0 /* Main.storyboard */,
 				B04A8EFF1FEC2538009616A0 /* Assets.xcassets */,
 				B04A8F011FEC2538009616A0 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				B04A8EFB1FEC2537009616A0 /* ViewController.swift in Sources */,
 				B04A8EF91FEC2537009616A0 /* AppDelegate.swift in Sources */,
+				B00EC6D920237BAB008D4E4B /* ButtonAnimationExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
